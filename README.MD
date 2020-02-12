@@ -1,3 +1,5 @@
 # REPOSITORIO DE HOMOLOGAÇÃO
-![./homer.jpg](Equipe trabalhando)
+
+![./homer.jpg](Homer Dev - Equipe trabalhando)
+
 ESTE REPOSITORIO FOI CRIADO COM A FINALIDADE DE REALIZAR TESTES PARA DEFINIR A OPERAÇÃO DE CONTROLE DE VERSÃO
